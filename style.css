@@ -1,0 +1,17 @@
+.maincharakter {
+    display: flex;
+    padding: 20px;
+    flex-direction: column;    
+    gap: 10px;
+    margin: 10px;
+    border: 2px solid black;
+    
+
+}
+
+.maincharakter div {
+    border: 1px solid gray;
+    padding: 5px;
+    font-size: 18px;
+    width: 200px;
+}
