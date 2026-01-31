@@ -1,0 +1,11 @@
+{
+  "name": "zenros",
+  "version": "1.0.0",
+  "description": "Ein kleines Browser‑Projekt mit HTML, CSS und JavaScript.",
+  "main": "player.js",
+  "scripts": {
+    "test": "start dev"
+  },
+  "author": "Schattennerz alias Tobias",
+  "license": "ISC"
+}
